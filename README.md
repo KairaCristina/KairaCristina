@@ -11,4 +11,4 @@ I build reproducible pipelines for large-scale human genomic data, from raw read
 
 **Tools:** Python · R · Bash · Nextflow · conda · Git · GATK · DeepVariant · BWA-MEM2 · PLINK · VEP · ANNOVAR
 
-📫 [LinkedIn](www.linkedin.com/in/kaira-cristina-peralis-tomaz-398344209)
+📫 [LinkedIn](kaira-cristina-peralis-tomaz-398344209)
