@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kaira 👋
 
-<!--
-**KairaCristina/KairaCristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatician and PhD candidate in Genetics and Molecular Biology (Bioinformatics) at the University of Campinas (Unicamp), Brazil, and former visiting researcher at the Rosalind Franklin Institute, UK.
 
-Here are some ideas to get you started:
+I build reproducible pipelines for large-scale human genomic data, from raw reads to variant calls and post-GWAS interpretation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Main work**
+- 🧬 Large-scale WGS/WXS processing (FASTQ → VCF; GRCh38 and T2T-CHM13) on HPC (SLURM, PBS)
+- 📊 GWAS, multi-ancestry meta-analysis (METAL, MR-MEGA), pleiotropy (PLACO) and Mendelian randomisation
+- 🔁 Nextflow (DSL2) pipeline integrating GWAS, functional annotation and drug repurposing (PrimeKG). Private repository, public release planned with the software paper; available on request.
+
+**Tools:** Python · R · Bash · Nextflow · conda · Git · GATK · DeepVariant · BWA-MEM2 · PLINK · VEP · ANNOVAR
+
+📫 [LinkedIn](www.linkedin.com/in/kaira-cristina-peralis-tomaz-398344209)
